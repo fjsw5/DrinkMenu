@@ -1,0 +1,48 @@
+@charset "UTF-8";
+br {
+    display: block;
+    content: "";
+    margin: 30px 0;
+}
+.Title 
+{
+    text-align: center;
+
+}
+.Title h1
+{
+    font-size: 10vw; 
+    color: red;
+
+}
+.Title h2
+{
+    font-size: 5vw; /* フォント：16px 画面幅：414px */
+    line-height: 0.5;
+    color: Green;
+
+}
+
+.Alcohol1 
+{
+    font-size: 3.8vw; /* フォント：10px 画面幅：414px */
+}
+.Alcohol1 p 
+{
+    font-size: 3.8vw; /* フォント：10px 画面幅：414px */
+    line-height: 0.5;
+    color: blue;
+}
+
+.SfoftDrinks 
+{
+    font-size: 3.8vw; /* フォント：10px 画面幅：414px */
+
+}
+
+.SfoftDrinks p 
+{
+    font-size: 3.8vw; /* フォント：10px 画面幅：414px */
+    line-height: 0.5;
+    color: blue;
+}
